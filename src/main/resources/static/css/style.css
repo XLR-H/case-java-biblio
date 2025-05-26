@@ -1,0 +1,42 @@
+body {
+    background-color: #aaa;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+table {
+    background-color: #bbb;
+    border: 1px solid black;
+}
+
+.navbar {
+    border-radius: 0 0 10px 10px;
+}
+
+.container {
+    padding-bottom: 30px;
+}
+
+.btn {
+    margin-right: 5px;
+}
+
+form {
+    background-color: #bbb;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+input[type="text"],
+input[type="email"],
+input[type="date"],
+select {
+    border-radius: 5px;
+}
+
+a.btn-secondary {
+    margin-left: 5px;
+}
